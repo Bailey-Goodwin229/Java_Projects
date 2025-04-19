@@ -1,1 +1,1 @@
-
+This is my take on the "Hello World!" program, it asks the user to input a response and guides the user to say "hello". The program will keep repeating until the word is entered then will respond with it's answer and end the program.
